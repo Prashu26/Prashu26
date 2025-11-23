@@ -82,8 +82,8 @@ Implementations of Merge Sort, Quick Sort, and more.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/prashanth-h-m-6a3735271/))
+
 
 ---
 
