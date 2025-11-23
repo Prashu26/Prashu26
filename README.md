@@ -100,8 +100,8 @@ I am actively seeking collaborations on high-impact projects—especially within
 | :--- | :--- |
 | **LinkedIn** | https://www.linkedin.com/in/prashanth-h-m-6a3735271/ |
 | **GitHub** | https://github.com/Prashu26 |
-| **Email** | *[Add your email here]* |
-| **Twitter/X** | *[Add your handle here]* |
+| **Email** | prashanthhm2611@gmail.com |
+
 
 ---
 
